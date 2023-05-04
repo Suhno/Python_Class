@@ -1,0 +1,13 @@
+cd - change directory *
+touch - creates an archive *
+pwd - to know where you are *
+mkdir - makes a directory *
+nano - edits an archive, like this one *
+ipconfig - to see the network 
+ls - list, shows what access you have to *
+history - shows you a list of commands you've used so far
+(cntrl + o (save) cntrl + x (close) )
+whoami - tell you who you are in your network
+ping (url) - tell you the algorithm
+grep - to look for somthing in an specific archive
+open - to open an archive
